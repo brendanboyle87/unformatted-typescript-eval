@@ -1,0 +1,11 @@
+{
+  "id": "task-021",
+  "category": "sorting_search",
+  "docstring": "Implement `bubbleSortNumbers` to sort an array of numbers in ascending order using the bubble sort algorithm.\nReturn a new array without mutating the original input.\nOptimize by stopping early when no swaps occur during a pass.",
+  "function": "bubbleSortNumbers",
+  "masked_lines": [
+    2,
+    16
+  ],
+  "num_tests": 3
+}

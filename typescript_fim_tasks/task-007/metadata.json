@@ -1,0 +1,11 @@
+{
+  "id": "task-007",
+  "category": "string",
+  "docstring": "Create `truncateString` to shorten a string to a maximum length, appending an ellipsis by default when truncation occurs.\nAccept the original text, the maximum allowed length, and an optional ellipsis string defaulting to `\u2026`.\nThrow a `RangeError` if the maximum length is negative, and ensure the returned string does not exceed the limit.",
+  "function": "truncateString",
+  "masked_lines": [
+    2,
+    16
+  ],
+  "num_tests": 3
+}

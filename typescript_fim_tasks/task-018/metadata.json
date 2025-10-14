@@ -1,0 +1,11 @@
+{
+  "id": "task-018",
+  "category": "array",
+  "docstring": "Implement `sumByKey` to sum numeric property values across an array of objects.\nAccept an array of generic records and a key; treat missing or non-number values as zero.\nReturn the total sum as a number.",
+  "function": "sumByKey",
+  "masked_lines": [
+    2,
+    10
+  ],
+  "num_tests": 3
+}

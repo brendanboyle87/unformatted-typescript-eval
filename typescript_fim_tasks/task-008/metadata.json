@@ -1,0 +1,11 @@
+{
+  "id": "task-008",
+  "category": "string",
+  "docstring": "Design `padCenter` to center a string within a target length by padding with a specified character.\nThe function receives the text, the desired total length, and an optional single-character pad value defaulting to a space.\nThrow an error when the pad value is not exactly one character long and return the original text if no padding is needed.",
+  "function": "padCenter",
+  "masked_lines": [
+    2,
+    14
+  ],
+  "num_tests": 3
+}

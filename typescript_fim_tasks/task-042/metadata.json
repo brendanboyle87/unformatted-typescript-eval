@@ -1,0 +1,11 @@
+{
+  "id": "task-042",
+  "category": "async",
+  "docstring": "Implement `withTimeout` to wrap a promise with a timeout.\nIf the wrapped promise does not settle within the specified milliseconds, reject with a timeout error message.\nAllow a custom error message, defaulting to `\"Operation timed out\"`.",
+  "function": "withTimeout",
+  "masked_lines": [
+    2,
+    17
+  ],
+  "num_tests": 3
+}

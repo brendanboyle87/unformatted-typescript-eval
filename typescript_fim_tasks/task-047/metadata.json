@@ -1,0 +1,11 @@
+{
+  "id": "task-047",
+  "category": "async",
+  "docstring": "Implement `fetchWithFallback` to attempt fetching a resource from multiple URLs until one succeeds.\nAccept an array of URLs and a fetch-like function returning a promise of a response with an `ok` boolean.\nResolve with the first successful response or reject with the last error when all attempts fail.",
+  "function": "fetchWithFallback",
+  "masked_lines": [
+    9,
+    27
+  ],
+  "num_tests": 3
+}

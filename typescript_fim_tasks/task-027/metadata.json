@@ -1,0 +1,11 @@
+{
+  "id": "task-027",
+  "category": "sorting_search",
+  "docstring": "Implement `searchMatrix` to determine whether a target number exists in a 2D matrix.\nEach row of the matrix is sorted in ascending order and the first element of each row is greater than the last element of the previous row.\nUse binary search across the flattened matrix and return a boolean indicating whether the target is present.",
+  "function": "searchMatrix",
+  "masked_lines": [
+    2,
+    29
+  ],
+  "num_tests": 3
+}

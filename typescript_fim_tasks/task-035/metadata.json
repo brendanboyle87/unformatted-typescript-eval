@@ -1,0 +1,11 @@
+{
+  "id": "task-035",
+  "category": "object",
+  "docstring": "Implement `omitKeys` to produce a shallow copy of an object without specific keys.\nAccept the source object and an array of keys to remove.\nReturn a new object excluding those keys without modifying the original.",
+  "function": "omitKeys",
+  "masked_lines": [
+    2,
+    12
+  ],
+  "num_tests": 3
+}

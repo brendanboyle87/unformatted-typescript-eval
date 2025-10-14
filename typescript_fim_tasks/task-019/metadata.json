@@ -1,0 +1,11 @@
+{
+  "id": "task-019",
+  "category": "array",
+  "docstring": "Create `filterTruthy` to remove falsy values from an array.\nThe function should return a new array containing only values that coerce to true, preserving the original order.\nTypeScript should infer the narrowed type of the returned array.",
+  "function": "filterTruthy",
+  "masked_lines": [
+    2,
+    3
+  ],
+  "num_tests": 3
+}

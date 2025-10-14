@@ -1,0 +1,11 @@
+{
+  "id": "task-012",
+  "category": "array",
+  "docstring": "Write a generic function `flattenOneLevel` that flattens an array by one depth.\nThe input array may contain elements of type `T` or arrays of `T`, and the output should be a new array of `T`.\nThe original array must not be mutated.",
+  "function": "flattenOneLevel",
+  "masked_lines": [
+    2,
+    11
+  ],
+  "num_tests": 3
+}

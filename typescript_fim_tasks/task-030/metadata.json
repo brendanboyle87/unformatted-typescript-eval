@@ -1,0 +1,11 @@
+{
+  "id": "task-030",
+  "category": "sorting_search",
+  "docstring": "Implement `interpolationSearch` to search for a target within a sorted array of uniformly distributed numbers.\nUse the interpolation search formula to estimate the position and return the index of the target or `-1` when absent.\nHandle cases where the range collapses to avoid division by zero.",
+  "function": "interpolationSearch",
+  "masked_lines": [
+    2,
+    25
+  ],
+  "num_tests": 3
+}

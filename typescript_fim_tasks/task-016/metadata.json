@@ -1,0 +1,11 @@
+{
+  "id": "task-016",
+  "category": "array",
+  "docstring": "Implement `findMissingNumbers` to identify the integers missing from a sequence.\nGiven an array of integers (in any order), return the numbers that do not appear between the minimum and maximum values inclusive.\nReturn an empty array when the input is empty or contains a complete range.",
+  "function": "findMissingNumbers",
+  "masked_lines": [
+    2,
+    18
+  ],
+  "num_tests": 3
+}

@@ -1,0 +1,11 @@
+{
+  "id": "task-039",
+  "category": "object",
+  "docstring": "Implement `filterObject` to produce a new object containing only entries that satisfy a predicate.\nThe predicate receives the value and key and should return a boolean indicating whether to keep the pair.\nThe original object must remain unchanged.",
+  "function": "filterObject",
+  "masked_lines": [
+    2,
+    10
+  ],
+  "num_tests": 3
+}

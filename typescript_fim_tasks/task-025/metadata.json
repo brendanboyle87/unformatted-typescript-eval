@@ -1,0 +1,11 @@
+{
+  "id": "task-025",
+  "category": "sorting_search",
+  "docstring": "Implement `mergeSort` to sort an array of numbers in ascending order using the merge sort algorithm.\nThe function should recursively divide the array and merge sorted halves, returning a new array.\nDo not mutate the input array.",
+  "function": "mergeSort",
+  "masked_lines": [
+    20,
+    28
+  ],
+  "num_tests": 3
+}

@@ -1,0 +1,11 @@
+{
+  "id": "task-001",
+  "category": "string",
+  "docstring": "Implement a function `reverseString` that takes a string and returns a new string with the characters in reverse order.\nThe function should handle Unicode characters correctly and must not modify the original string.",
+  "function": "reverseString",
+  "masked_lines": [
+    3,
+    9
+  ],
+  "num_tests": 3
+}

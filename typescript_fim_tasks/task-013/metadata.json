@@ -1,0 +1,11 @@
+{
+  "id": "task-013",
+  "category": "array",
+  "docstring": "Implement `chunkArray` that splits an array into equally sized chunks except possibly the last chunk.\nAccept the input array and a positive chunk size; throw an error if the size is less than one.\nReturn a new array of chunk arrays without mutating the original input.",
+  "function": "chunkArray",
+  "masked_lines": [
+    2,
+    12
+  ],
+  "num_tests": 3
+}

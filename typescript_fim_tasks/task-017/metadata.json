@@ -1,0 +1,11 @@
+{
+  "id": "task-017",
+  "category": "array",
+  "docstring": "Implement `rotateArray` to rotate an array of elements by a given number of steps to the right.\nThe rotation count may be negative, indicating a rotation to the left.\nReturn a new array without modifying the original input.",
+  "function": "rotateArray",
+  "masked_lines": [
+    2,
+    13
+  ],
+  "num_tests": 3
+}

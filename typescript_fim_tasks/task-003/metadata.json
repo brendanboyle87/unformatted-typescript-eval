@@ -1,0 +1,11 @@
+{
+  "id": "task-003",
+  "category": "string",
+  "docstring": "Build a function `capitalizeWords` that converts the first character of every word in a string to uppercase while lowercasing the remaining characters of the word.\nWords are delimited by whitespace but the original spacing must be preserved in the returned string.\nThe function should handle Unicode characters when changing case.",
+  "function": "capitalizeWords",
+  "masked_lines": [
+    2,
+    15
+  ],
+  "num_tests": 3
+}

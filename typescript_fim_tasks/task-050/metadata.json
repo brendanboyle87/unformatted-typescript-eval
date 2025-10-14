@@ -1,0 +1,11 @@
+{
+  "id": "task-050",
+  "category": "async",
+  "docstring": "Implement `makeCancelable` to create a cancellable promise wrapper around an asynchronous operation.\nAccept an executor that receives an `AbortSignal` and returns a promise.\nProvide a `cancel` function that aborts the signal and rejects the promise with `\"Operation cancelled\"` if it has not yet settled.",
+  "function": "makeCancelable",
+  "masked_lines": [
+    7,
+    43
+  ],
+  "num_tests": 3
+}

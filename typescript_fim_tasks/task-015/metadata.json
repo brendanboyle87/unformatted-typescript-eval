@@ -1,0 +1,11 @@
+{
+  "id": "task-015",
+  "category": "array",
+  "docstring": "Implement `getTopNElements` to return the largest `n` numbers from an array sorted in descending order.\nThe original array must remain unchanged and `n` should be clamped between zero and the array length.\nHandle duplicate numbers by including them according to their frequency.",
+  "function": "getTopNElements",
+  "masked_lines": [
+    2,
+    10
+  ],
+  "num_tests": 3
+}

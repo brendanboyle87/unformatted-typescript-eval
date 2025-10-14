@@ -1,0 +1,11 @@
+{
+  "id": "task-037",
+  "category": "object",
+  "docstring": "Implement `setValueByPath` to set a value on a nested object or array using a dot-separated path.\nCreate intermediate objects or arrays as needed and return a new cloned structure leaving the original untouched.\nNumeric path segments should create arrays.",
+  "function": "setValueByPath",
+  "masked_lines": [
+    18,
+    53
+  ],
+  "num_tests": 3
+}

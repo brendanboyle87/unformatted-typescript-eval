@@ -1,0 +1,11 @@
+{
+  "id": "task-044",
+  "category": "async",
+  "docstring": "Implement `limitConcurrency` to execute asynchronous tasks with a maximum number of concurrent operations.\nAccept an array of functions returning promises and a positive concurrency limit.\nResolve with an array of results preserving the order of the original tasks.",
+  "function": "limitConcurrency",
+  "masked_lines": [
+    2,
+    28
+  ],
+  "num_tests": 3
+}

@@ -1,0 +1,11 @@
+{
+  "id": "task-022",
+  "category": "sorting_search",
+  "docstring": "Implement `quickSortStrings` to sort strings in ascending order using the quicksort algorithm.\nCompare strings using `localeCompare` with base sensitivity to perform a case-insensitive sort.\nReturn a new sorted array without mutating the input.",
+  "function": "quickSortStrings",
+  "masked_lines": [
+    2,
+    22
+  ],
+  "num_tests": 3
+}

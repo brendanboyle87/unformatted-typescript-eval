@@ -1,0 +1,11 @@
+{
+  "id": "task-036",
+  "category": "object",
+  "docstring": "Implement `getValueByPath` to retrieve a nested value from an object using a dot-separated path.\nIf any segment is missing, return `undefined`.\nTreat array indices as numeric segments in the path.",
+  "function": "getValueByPath",
+  "masked_lines": [
+    2,
+    22
+  ],
+  "num_tests": 3
+}

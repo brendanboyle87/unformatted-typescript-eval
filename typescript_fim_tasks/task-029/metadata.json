@@ -1,0 +1,11 @@
+{
+  "id": "task-029",
+  "category": "sorting_search",
+  "docstring": "Implement `countingSort` to sort an array of non-negative integers using the counting sort algorithm.\nReturn a new sorted array without mutating the input.\nThrow an error if a negative number is encountered.",
+  "function": "countingSort",
+  "masked_lines": [
+    2,
+    29
+  ],
+  "num_tests": 3
+}

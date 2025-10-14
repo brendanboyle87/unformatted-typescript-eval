@@ -1,0 +1,11 @@
+{
+  "id": "task-046",
+  "category": "async",
+  "docstring": "Implement `runSequentially` to execute an array of asynchronous functions one after another.\nEach function returns a promise whose resolution should be awaited before starting the next.\nResolve with an array of the fulfilled values in order.",
+  "function": "runSequentially",
+  "masked_lines": [
+    2,
+    7
+  ],
+  "num_tests": 3
+}

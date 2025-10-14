@@ -1,0 +1,11 @@
+{
+  "id": "task-005",
+  "category": "string",
+  "docstring": "Write a function `countVowels` that counts the number of vowel characters in a string.\nThe function accepts a boolean flag `includeY` that, when true, counts the letter `y` as a vowel.\nReturn the total number of matching characters while treating the input case-insensitively.",
+  "function": "countVowels",
+  "masked_lines": [
+    4,
+    11
+  ],
+  "num_tests": 3
+}

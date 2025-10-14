@@ -1,0 +1,11 @@
+{
+  "id": "task-011",
+  "category": "array",
+  "docstring": "Implement `uniqueNumbers` to return an array containing only the first occurrence of each number in the input sequence.\nPreserve the original order of the numbers and do not mutate the provided array.\nThe function should handle negative numbers and `NaN` values correctly.",
+  "function": "uniqueNumbers",
+  "masked_lines": [
+    2,
+    22
+  ],
+  "num_tests": 3
+}

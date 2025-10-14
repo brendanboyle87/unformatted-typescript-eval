@@ -1,0 +1,11 @@
+{
+  "id": "task-041",
+  "category": "async",
+  "docstring": "Implement `retryAsync` to repeatedly invoke an asynchronous operation until it succeeds or the retry limit is reached.\nAccept an operation returning a promise, the maximum number of attempts, and an optional delay in milliseconds between attempts.\nReject with the last error when all attempts fail.",
+  "function": "retryAsync",
+  "masked_lines": [
+    4,
+    21
+  ],
+  "num_tests": 3
+}

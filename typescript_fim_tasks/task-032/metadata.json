@@ -1,0 +1,11 @@
+{
+  "id": "task-032",
+  "category": "object",
+  "docstring": "Implement `deepMerge` to merge two plain objects recursively.\nWhen both objects contain the same key with plain object values, merge them; when both are arrays, concatenate copies of the arrays.\nOther values should be overwritten by the source.",
+  "function": "deepMerge",
+  "masked_lines": [
+    5,
+    26
+  ],
+  "num_tests": 3
+}

@@ -1,0 +1,11 @@
+{
+  "id": "task-023",
+  "category": "sorting_search",
+  "docstring": "Implement `binarySearch` to locate a target number within a sorted ascending array of numbers.\nReturn the index of the target if found or `-1` otherwise.\nUse an iterative binary search algorithm with `O(log n)` complexity.",
+  "function": "binarySearch",
+  "masked_lines": [
+    2,
+    21
+  ],
+  "num_tests": 3
+}
