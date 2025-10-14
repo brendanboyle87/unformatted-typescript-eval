@@ -1,0 +1,11 @@
+{
+  "id": "task-026",
+  "category": "sorting_search",
+  "docstring": "Implement `findKthSmallest` to return the k-th smallest number in an unsorted array.\nThe function should use a selection algorithm with average `O(n)` time complexity and not mutate the input array.\nThrow a `RangeError` when `k` is out of bounds (less than 1 or greater than the array length).",
+  "function": "findKthSmallest",
+  "masked_lines": [
+    18,
+    40
+  ],
+  "num_tests": 3
+}

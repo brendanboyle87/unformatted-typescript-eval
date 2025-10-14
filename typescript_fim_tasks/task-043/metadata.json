@@ -1,0 +1,11 @@
+{
+  "id": "task-043",
+  "category": "async",
+  "docstring": "Implement `pollUntil` to repeatedly invoke an asynchronous factory until a predicate returns true or a timeout expires.\nAccept a polling interval in milliseconds and a total timeout duration.\nReject with an error when the timeout is reached without satisfying the predicate.",
+  "function": "pollUntil",
+  "masked_lines": [
+    9,
+    28
+  ],
+  "num_tests": 3
+}

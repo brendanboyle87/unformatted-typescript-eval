@@ -1,0 +1,11 @@
+{
+  "id": "task-010",
+  "category": "string",
+  "docstring": "Implement `highlightKeyword` to wrap all case-insensitive occurrences of a keyword within a text string.\nThe function receives the text, the keyword, and an optional wrapper object containing `start` and `end` strings defaulting to `<mark>` and `</mark>`.\nEscape special regex characters in the keyword and leave the text unchanged when the keyword is empty.",
+  "function": "highlightKeyword",
+  "masked_lines": [
+    13,
+    20
+  ],
+  "num_tests": 3
+}

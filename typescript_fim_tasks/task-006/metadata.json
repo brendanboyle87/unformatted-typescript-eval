@@ -1,0 +1,11 @@
+{
+  "id": "task-006",
+  "category": "string",
+  "docstring": "Implement `snakeToCamel` to convert a snake_case string to camelCase.\nThe function should lowercase the first segment and capitalize the first letter of subsequent segments while removing underscores.\nEmpty segments caused by consecutive underscores should be skipped in the output.",
+  "function": "snakeToCamel",
+  "masked_lines": [
+    2,
+    14
+  ],
+  "num_tests": 3
+}

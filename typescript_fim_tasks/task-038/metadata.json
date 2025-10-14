@@ -1,0 +1,11 @@
+{
+  "id": "task-038",
+  "category": "object",
+  "docstring": "Implement `diffObjects` to compare two plain objects and describe their differences.\nReturn a mapping from keys to `{ before, after }` pairs for keys whose values are not strictly equal.\nInclude keys present in one object but not the other.",
+  "function": "diffObjects",
+  "masked_lines": [
+    2,
+    14
+  ],
+  "num_tests": 3
+}

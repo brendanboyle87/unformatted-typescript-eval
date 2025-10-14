@@ -1,0 +1,11 @@
+{
+  "id": "task-040",
+  "category": "object",
+  "docstring": "Implement `invertObject` to swap keys and values of an object.\nThe input object's values must be convertible to strings to become keys in the result.\nWhen duplicate values occur, later keys should overwrite earlier ones.",
+  "function": "invertObject",
+  "masked_lines": [
+    2,
+    7
+  ],
+  "num_tests": 3
+}

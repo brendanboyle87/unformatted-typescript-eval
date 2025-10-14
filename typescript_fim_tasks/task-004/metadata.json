@@ -1,0 +1,11 @@
+{
+  "id": "task-004",
+  "category": "string",
+  "docstring": "Implement `formatCurrency` to format a numeric amount as a localized currency string.\nThe function accepts the amount, an ISO 4217 currency code, and an optional BCP 47 locale tag defaulting to `en-US`.\nUse `Intl.NumberFormat` and ensure values less than one display at least four decimal places.",
+  "function": "formatCurrency",
+  "masked_lines": [
+    2,
+    10
+  ],
+  "num_tests": 3
+}

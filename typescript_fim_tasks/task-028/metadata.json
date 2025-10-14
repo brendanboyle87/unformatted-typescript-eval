@@ -1,0 +1,11 @@
+{
+  "id": "task-028",
+  "category": "sorting_search",
+  "docstring": "Implement `partitionByPivot` to reorder an array of numbers around a pivot value.\nElements less than the pivot should come first, followed by elements equal to the pivot, then greater than the pivot.\nReturn a new array reflecting the partition while preserving the relative order within each group.",
+  "function": "partitionByPivot",
+  "masked_lines": [
+    2,
+    17
+  ],
+  "num_tests": 3
+}

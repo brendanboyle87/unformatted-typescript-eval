@@ -1,0 +1,11 @@
+{
+  "id": "task-009",
+  "category": "string",
+  "docstring": "Implement `repeatPattern` to produce a string of a specified length by repeating a pattern.\nThe function takes a pattern string and the desired total length; it should truncate the last repetition to fit the limit.\nThrow a `RangeError` when the requested length is negative and return an empty string if the pattern is empty.",
+  "function": "repeatPattern",
+  "masked_lines": [
+    2,
+    17
+  ],
+  "num_tests": 3
+}

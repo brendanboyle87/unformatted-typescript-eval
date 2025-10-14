@@ -1,0 +1,11 @@
+{
+  "id": "task-033",
+  "category": "object",
+  "docstring": "Implement `groupByKey` to group an array of records by the value of a specified key.\nReturn a mapping from key values to arrays of records sharing that value.\nThe original array should not be mutated.",
+  "function": "groupByKey",
+  "masked_lines": [
+    2,
+    10
+  ],
+  "num_tests": 3
+}

@@ -1,0 +1,11 @@
+{
+  "id": "task-020",
+  "category": "array",
+  "docstring": "Implement `mergeSortedArrays` to merge two sorted arrays of numbers into a single sorted array.\nBoth inputs are sorted in ascending order; the result should also be ascending and include duplicates.\nThe original arrays must not be modified.",
+  "function": "mergeSortedArrays",
+  "masked_lines": [
+    2,
+    27
+  ],
+  "num_tests": 3
+}

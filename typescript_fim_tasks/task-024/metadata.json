@@ -1,0 +1,11 @@
+{
+  "id": "task-024",
+  "category": "sorting_search",
+  "docstring": "Implement `insertionSortByKey` to sort an array of objects using the insertion sort algorithm.\nThe function accepts an array of records and a key whose numeric values determine the ordering.\nReturn a new array sorted ascending by the key without mutating the original.",
+  "function": "insertionSortByKey",
+  "masked_lines": [
+    2,
+    17
+  ],
+  "num_tests": 3
+}

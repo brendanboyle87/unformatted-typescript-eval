@@ -1,0 +1,11 @@
+{
+  "id": "task-049",
+  "category": "async",
+  "docstring": "Implement `mapAsyncSeries` to apply an asynchronous mapper to an array sequentially.\nAwait each mapper invocation before proceeding to the next item.\nReturn a promise that resolves with the array of mapped results in order.",
+  "function": "mapAsyncSeries",
+  "masked_lines": [
+    2,
+    7
+  ],
+  "num_tests": 3
+}

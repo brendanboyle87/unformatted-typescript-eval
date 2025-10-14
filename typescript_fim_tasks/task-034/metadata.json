@@ -1,0 +1,11 @@
+{
+  "id": "task-034",
+  "category": "object",
+  "docstring": "Implement `mapKeys` to transform the keys of an object using a mapping function.\nThe mapper receives the original key and value and returns a new key; the values remain unchanged.\nWhen multiple keys map to the same result, later keys should overwrite earlier ones.",
+  "function": "mapKeys",
+  "masked_lines": [
+    2,
+    8
+  ],
+  "num_tests": 3
+}

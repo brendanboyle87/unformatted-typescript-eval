@@ -1,0 +1,11 @@
+{
+  "id": "task-014",
+  "category": "array",
+  "docstring": "Create a function `groupByParity` that partitions an array of integers into even and odd numbers.\nReturn an object with `even` and `odd` properties, each containing the numbers in their original order.\nThe input array should remain unchanged.",
+  "function": "groupByParity",
+  "masked_lines": [
+    7,
+    19
+  ],
+  "num_tests": 3
+}

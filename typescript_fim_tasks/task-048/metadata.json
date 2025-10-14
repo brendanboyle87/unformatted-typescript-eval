@@ -1,0 +1,11 @@
+{
+  "id": "task-048",
+  "category": "async",
+  "docstring": "Implement `memoizeAsync` to memoize an asynchronous function based on its arguments.\nCache in-flight promises so concurrent calls with the same arguments share the result.\nRemove cache entries when the promise rejects to allow retries.",
+  "function": "memoizeAsync",
+  "masked_lines": [
+    2,
+    22
+  ],
+  "num_tests": 3
+}

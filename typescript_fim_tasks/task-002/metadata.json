@@ -1,0 +1,11 @@
+{
+  "id": "task-002",
+  "category": "string",
+  "docstring": "Create a function `areAnagrams` that determines whether two input strings are anagrams of each other.\nThe function must ignore letter casing and non-alphanumeric characters while performing the comparison.\nReturn `true` only if both strings contain the same characters with the same multiplicity once normalized.",
+  "function": "areAnagrams",
+  "masked_lines": [
+    8,
+    22
+  ],
+  "num_tests": 3
+}

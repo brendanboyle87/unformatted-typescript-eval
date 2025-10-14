@@ -1,0 +1,11 @@
+{
+  "id": "task-031",
+  "category": "object",
+  "docstring": "Implement `deepClone` to create a deep copy of plain objects and arrays.\nThe function should recursively clone nested arrays and objects, and copy `Date` instances by value.\nPrimitive values should be returned as-is.",
+  "function": "deepClone",
+  "masked_lines": [
+    2,
+    19
+  ],
+  "num_tests": 3
+}

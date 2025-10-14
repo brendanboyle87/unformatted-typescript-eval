@@ -1,0 +1,11 @@
+{
+  "id": "task-045",
+  "category": "async",
+  "docstring": "Implement `batchPromises` to process an array of items in batches using an asynchronous mapper.\nExecute each batch sequentially while awaiting all promises within the batch in parallel.\nPreserve the order of results matching the input items.",
+  "function": "batchPromises",
+  "masked_lines": [
+    6,
+    19
+  ],
+  "num_tests": 3
+}
